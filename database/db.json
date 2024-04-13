@@ -1,0 +1,26 @@
+{
+    "Sach": [
+        {
+            "id" : "1",
+            "ma_sach_ph42448":"dz123",
+            "tieu_de_ph42448": "sách ok",
+            "tac_gia_ph42448": "hoang",
+            "nam_xuat_ban_ph42448":"2004",
+            "so_trang_ph42448":1000,
+            "the_loai_ph42448":"viễn tưởng",
+            "hinh_anh_ph42448": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwx3bnxRfIBauKgiTvDF2di2cr_Y6IPSn3CvgjysRj8w&s",
+            "don_gia_ph42448": 10000000
+        },
+        {
+            "id" : "2",
+            "ma_sach_ph42448":"dz12345",
+            "tieu_de_ph42448": "sách ok",
+            "tac_gia_ph42448": "hoang",
+            "nam_xuat_ban_ph42448":"2004",
+            "so_trang_ph42448":1000,
+            "the_loai_ph42448":"viễn tưởng",
+            "hinh_anh_ph42448": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_3DxRxOJ_XRYNUuQM7Ck9o9UGRFcS-I-VaOZHkuIVRA&s",
+            "don_gia_ph42448": 10000000
+        }
+    ]
+}
